@@ -1,16 +1,13 @@
-### Hi there 👋
+# person-with-a-username
 
-<!--
-**person-with-a-username/person-with-a-username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am, as my name suggests, a person with a username. I go by #9095 on Discord, and my pronouns are he/him.
 
-Here are some ideas to get you started:
+Some stuff about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I program mainly in Python, but I wish I knew some functional programming languages.
+
+- I'm a bit new to GitHub and Git and stuff (not really, but I'm just not that good at using them).
+
+- There are literally no other facts about me.
+
+<img src="https://github-readme-stats.vercel.app/api?username=person-with-a-username&show_icons=true&theme=vision-friendly-dark" />
