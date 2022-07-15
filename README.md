@@ -2,7 +2,7 @@
 
 I am, as my name suggests, a person with a username.
 
-Pronouns: he/him.
+Pronouns: they/them.
 
 Some stuff about me:
 
